@@ -1,8 +1,6 @@
 ### **About me**
 * 👂 My name is Jaro
-* 🌱 I’m currently learning Docker 
 * 📖 Studying to get my bachelor's degree
-* 🌐 I know how to speak in two different languages: English and Finnish
 * 💡 Self-Taught Developer
 
 <h2> 🚀 Tools I Have Used and Learned</h2>
