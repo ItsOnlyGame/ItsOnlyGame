@@ -1,6 +1,6 @@
 ### **About me**
 * 👂 My name is Jaro
-* 📖 Studying to get my bachelor's degree
+* 📖 Studying to get my bachelor's degree in Information Technology
 * 💡 Self-Taught Developer
 
 <h2> 🚀 Tools I Have Used and Learned</h2>
